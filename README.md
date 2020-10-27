@@ -1,2 +1,2 @@
 # SC555
-SC555 Project
+This is our repository for SC555 Project
